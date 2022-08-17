@@ -3,7 +3,7 @@
 ## Description
 
 <p>
-    Project created using the [tmdb api](https://developers.themoviedb.org/3/getting-started/introduction), putting into practice basic knowledge of react
+Project created using the [tmdb api](https://developers.themoviedb.org/3/getting-started/introduction), putting into practice basic knowledge of react
 </p>
 
-<img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f2fef515-52d5-4fc1-b50c-831a6e5d421c/deploy-status)](https://app.netlify.com/sites/tmdb-movies-react05/deploys)
