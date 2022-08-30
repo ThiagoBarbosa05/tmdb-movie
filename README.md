@@ -31,4 +31,4 @@ Project created using the [tmdb api](https://developers.themoviedb.org/3/getting
 
 Made with ❤️ by Thiago Barbosa 👋🏽 Get in touch!
 
-<a href="hotmail.com"><img src="https://img.shields.io/badge/Email-thiagon16%40hotmail.com-blue" /></a>
+<a href="google.com"><img src="https://img.shields.io/badge/Email-thiagon16%40hotmail.com-blue" /></a>
