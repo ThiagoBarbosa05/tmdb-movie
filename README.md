@@ -1,5 +1,7 @@
 # tmdb-movie
 <img src="https://img.shields.io/badge/Vite-v3.0-blue" />
+<img src="https://img.shields.io/badge/React-v18.2.0-blue" />
+
 
 ## Description
 
