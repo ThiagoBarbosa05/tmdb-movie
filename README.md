@@ -1,4 +1,5 @@
 # tmdb-movie
+<img src="https://img.shields.io/badge/Vite-v3.0-blue" />
 
 ## Description
 
@@ -7,3 +8,6 @@ Project created using the [tmdb api](https://developers.themoviedb.org/3/getting
 </p>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f2fef515-52d5-4fc1-b50c-831a6e5d421c/deploy-status)](https://app.netlify.com/sites/tmdb-movies-react05/deploys)
+
+## technologies used
+
